@@ -1,5 +1,6 @@
 # Blogicum
 1.Clone the repository:
+
 `git clone https://github.com/IvanovDIV/django_sprint1.git`
 
 2.Navigate to the project directory:
