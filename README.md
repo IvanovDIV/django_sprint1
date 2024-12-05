@@ -13,8 +13,10 @@
 
 4.Activate the virtual environment:
 
-bash ```source venv/bin/activate # Linux/macOS
-venv\Scripts\activate # Windows ```
+```bash
+source venv/bin/activate # Linux/macOS
+venv\Scripts\activate # Windows
+ ```
 
 5.Install the dependencies:
 
